@@ -17,4 +17,4 @@ A modern chair product UI built using HTML and CSS.
 
 
 ## 🌐 Live Demo
-(Add GitHub Pages link later)
+https://tanmay9783.github.io/modern-chair-css/
